@@ -4,6 +4,10 @@
   "description": "Code to be shared with candidates interviewing for Liferay Cloud.",
   "main": "dist/index.js",
   "author": "mairatma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mairatma/lc-interviews"
+  },
   "license": "ISC",
   "scripts": {
     "build": "rm -rf dist/ && tsc",
