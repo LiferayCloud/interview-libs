@@ -1,6 +1,6 @@
 {
   "name": "lc-interviews",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code to be shared with candidates interviewing for Liferay Cloud.",
   "main": "dist/index.js",
   "author": "mairatma",
