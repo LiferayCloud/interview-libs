@@ -1,6 +1,6 @@
 {
   "name": "@liferaycloud/interview-libs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Code to be shared with candidates interviewing for Liferay Cloud.",
   "main": "dist/index.js",
   "author": "mairatma",
