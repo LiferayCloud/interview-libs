@@ -1,4 +1,4 @@
-# lc-interviews
+# @liferaycloud/interviews
 
 Code to be shared with candidates interviewing for Liferay Cloud.
 
