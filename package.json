@@ -1,12 +1,12 @@
 {
-  "name": "lc-interviews",
+  "name": "@liferaycloud/interviews",
   "version": "1.0.1",
   "description": "Code to be shared with candidates interviewing for Liferay Cloud.",
   "main": "dist/index.js",
   "author": "mairatma",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mairatma/lc-interviews"
+    "url": "https://github.com/LiferayCloud/interviews"
   },
   "license": "ISC",
   "scripts": {

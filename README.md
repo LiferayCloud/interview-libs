@@ -7,7 +7,7 @@ Code to be shared with candidates interviewing for Liferay Cloud.
 For the Services API challenge you'll be given this library to work with.
 
 ```js
-import { DeploymentLibrary } from 'lc-interviews';
+import { DeploymentLibrary } from '@liferaycloud/interviews';
 
 // Deploys the given service.
 DeploymentLibrary.deploy(service);
